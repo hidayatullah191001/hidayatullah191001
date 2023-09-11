@@ -5,20 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Sriwijaya University
-- 🌱 I’m currently learning in Dicoding.com
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m finished my studied in Sriwijaya University, Indonesia
+- 🌱 I’m like and still learning from anywhere
+- 👯 I’m opening to collaborate on your project
+- 😄 My Skills : Flutter Developer, Web Developer, Arduino, etc 
 - ⚡ Fun fact: I'm Single
-
+- 
 # Halo semua! 
 Perkenalkan nama saya **Hidayatullah**.\  
-Saya seorang **Mahasiswa** di Universitas Sriwijaya  
+Saya lulusan sarjana sistem informasi di Universitas Sriwijaya  
 Saya mengikuti program Kampus Merdeka Studi Independen Bersertifikat Batch 2 di [Alterra Academy](https://www.alta.id/).  
-Dan untuk Batch 3 yang masih on going di [Dicoding](https://dicoding.com)  
+Dan untuk Batch 3 yang masih on going di [Dicoding](https://dicoding.com) 
+Saya juga mengikuti program pelatihan IT Support dari [Digital Talent](https://digitalent.kominfo.go.id/) 
 Saya tertarik di bidang Front-End Developer (Saat ini Flutter untuk Mobile) dan Web Developer.  
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https:/www.linkedin.com/in/hidayatullah19/)ku ya.  
      
