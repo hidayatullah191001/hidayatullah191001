@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m opening to collaborate on your project
 - 😄 My Skills : Flutter Developer, Web Developer, Arduino, etc 
 - ⚡ Fun fact: I'm Single
-- 
+  
 # Halo semua! 
 Perkenalkan nama saya **Hidayatullah**.\  
 Saya lulusan sarjana sistem informasi di Universitas Sriwijaya  
