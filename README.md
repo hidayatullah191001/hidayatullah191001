@@ -9,11 +9,11 @@ Here are some ideas to get you started:
 - 🌱 I’m like and still learning from anywhere
 - 👯 I’m opening to collaborate on your project
 - 😄 My Skills : Flutter Developer, Web Developer, Arduino, etc 
-- ⚡ Fun fact: I'm Single
+- :revolving_hearts: Fun fact: I'm Not Single
   
 # Halo semua! 
 Perkenalkan nama saya **Hidayatullah**.\  
-Saya lulusan sarjana sistem informasi di Universitas Sriwijaya  
+Saya lulusan sarjana sistem informasi di Universitas Sriwijaya. Saat ini saya bekerja di Patria Maritime Lines sebagai IT Programmer. 
 Saya mengikuti program Kampus Merdeka Studi Independen Bersertifikat Batch 2 di [Alterra Academy](https://www.alta.id/).  
 Dan untuk Batch 3 yang masih on going di [Dicoding](https://dicoding.com) 
 Saya juga mengikuti program pelatihan IT Support dari [Digital Talent](https://digitalent.kominfo.go.id/) 
