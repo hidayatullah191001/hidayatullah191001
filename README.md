@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m finished my studied in Sriwijaya University, Indonesia
+- :computer: I'm working as IT Programmer in Patria Maritime Lines, Cakung, Indonesia
 - 🌱 I’m like and still learning from anywhere
 - 👯 I’m opening to collaborate on your project
 - 😄 My Skills : Flutter Developer, Web Developer, Arduino, etc 
