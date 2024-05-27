@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-**hidayatullah191001/hidayatullah191001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hello, my name is Hidayatullah, you can call me Dayat. Nice to meet you :smile:
 
 - 🔭 I’m finished my studied in Sriwijaya University, Indonesia
 - :computer: I'm working as IT Programmer in Patria Maritime Lines, Cakung, Indonesia
