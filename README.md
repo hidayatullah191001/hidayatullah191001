@@ -3,7 +3,7 @@
 Hello, my name is Hidayatullah, you can call me Dayat. Nice to meet you :smile:
 
 - 🔭 I’m finished my studied in Sriwijaya University, Indonesia
-- :computer: I'm working as IT Programmer in PT Patria Maritime Lines, Cakung, Indonesia
+- :computer: I'm working as IT Programmer Specially SAP Abaper now in PT Patria Maritime Lines, Cakung, Indonesia
 - 🌱 I’m like and still learning from anywhere
 - 👯 I’m opening to collaborate on your project
 - 😄 My Skills : Flutter Developer, Laravel Developer, Web Developer, Arduino, etc 
