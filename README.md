@@ -6,12 +6,12 @@ Hello, my name is Hidayatullah, you can call me Dayat. Nice to meet you :smile:
 - :computer: I'm working as IT Programmer Specially SAP Abaper now in PT Patria Maritime Lines, Cakung, Indonesia
 - 🌱 I’m like and still learning from anywhere
 - 👯 I’m opening to collaborate on your project
-- 😄 My Skills : Flutter Developer, Laravel Developer, Web Developer, Arduino, etc 
-- :revolving_hearts: Fun fact: I'm Not Single
+- 😄 My Skills : SAP Abaper, Flutter Developer, Laravel Developer, Web Developer, Arduino, etc 
+- :revolving_hearts: Fun fact: I am not single. I have one of the most important people in the world who always supports and love me, thank you Anjeli.
   
 # Halo semua! 
 Perkenalkan nama saya **Hidayatullah**.\  
-Saya lulusan sarjana sistem informasi di Universitas Sriwijaya. Saat ini saya bekerja di Patria Maritime Lines sebagai IT Programmer. 
+Saya lulusan sarjana sistem informasi di Universitas Sriwijaya. Saat ini saya bekerja di Patria Maritime Lines sebagai IT Programmer terkhusus SAP Abaper. 
 Saya mengikuti program Kampus Merdeka Studi Independen Bersertifikat Batch 2 di [Alterra Academy](https://www.alta.id/).  
 Dan untuk Batch 3 yang masih on going di [Dicoding](https://dicoding.com) 
 Saya juga mengikuti program pelatihan IT Support dari [Digital Talent](https://digitalent.kominfo.go.id/) 
